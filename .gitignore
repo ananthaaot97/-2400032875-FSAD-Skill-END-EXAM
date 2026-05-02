@@ -1,0 +1,12 @@
+.metadata/
+
+# Maven build output
+**/target/
+
+# IDE files
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+Desktop.ini
